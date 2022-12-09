@@ -10,7 +10,7 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 # Core model:
 
 - 1- Classical ML approach: using some classical machine learning like *MultinomialNB*, *LogisticRegression*, *SGDClassifier* as classification model.
-- 2- Deep Learning Approach: using deep learning by finetuning an *Arabic-BERT* model trained on ~8.2 billion words then use our labeld dataset to train and test the model.
+- 2- Deep Learning Approach: using PyTorch to build deep learning model by finetuning an *Arabic-BERT* model trained on ~8.2 billion words then use our labeld dataset to train and test the model.
 
 # Deployment:
 
@@ -21,3 +21,6 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 
 
 # Next Step
+
+- Build the model using Tensor-Flow.
+- Deploy on Flutter App & Docker
