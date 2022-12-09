@@ -10,3 +10,7 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 # Core model:
 
 # Deployment:
+
+<image src=”https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/deploy.gif”>
+
+<img src="https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/deploy.gif" alt="Deployment gif" width="100%">
