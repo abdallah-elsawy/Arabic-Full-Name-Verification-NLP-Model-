@@ -7,7 +7,7 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 - The same dataset used to generate our fake names part.
 - combine both real & fake data to one file to be our dataset.
 
-# Core model:
+# Core Model:
 
 - 1- Classical ML approach: using some classical machine learning like *MultinomialNB*, *LogisticRegression*, *SGDClassifier* as classification model.
 - 2- Deep Learning Approach: using PyTorch to build deep learning model by finetuning an *Arabic-BERT* model trained on ~8.2 billion words then use our labeld dataset to train and test the model.
