@@ -13,4 +13,4 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 
 <image src=”https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/deploy.gif”>
 
-<img src="https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/deploy.gif" alt="Deployment gif" width="30%">
+<img src="https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/deploy.gif" alt="Deployment gif" width="50%">
