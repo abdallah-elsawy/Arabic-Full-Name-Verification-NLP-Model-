@@ -10,10 +10,14 @@ Arabic Full Name Verification It is a NLP Model that takes a person full name de
 # Core model:
 
 - 1- Classical ML approach: using some classical machine learning like *MultinomialNB*, *LogisticRegression*, *SGDClassifier* as classification model.
-- 2- Deep Learning Approach: using deep learning by finetuning an Arabic-BERT model trained on ~8.2 billion words then use our labeld dataset to train and test the model.
+- 2- Deep Learning Approach: using deep learning by finetuning an *Arabic-BERT* model trained on ~8.2 billion words then use our labeld dataset to train and test the model.
 
 # Deployment:
 
+- The deployment done using *Flask*. I used Flask to get the user input from the HTML page, then send the response to tested it on the saved model weights. And the predicttion of the name verification is sent to back to HTML page to show it. like in the following gif.
 
 
 <img src="https://github.com/abdallah-elsawy/Arabic-Full-Name-Verification-NLP-Model-/blob/main/Deployment%20Usin%20Flask/deploy.gif" alt="Deployment gif" width="75%">
+
+
+# Next Step
